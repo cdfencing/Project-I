@@ -1,0 +1,38 @@
+CTA Travel Data
+
+Team Members:
+Lisa Weinstein
+Courtney Dumas
+Mark Piraino
+
+
+Project Description Outline:
+Analyzing trends in public transit from 2001 to present. Comparing and contrasting of ridership in neighborhoods and stations overtime and determining how COVID-19 has affected trends.  
+
+Analysis Questions:
+* Which neighborhoods use L stations the most. 
+* Analysis to analyze trends overtime. 
+* Has ridership increased or decreased? 
+* Trend before COVID? 
+* Determine which day of the week ridership is most prevalent. 
+* Use bus data and determine which neighborhoods use the bus more than the ‘L’.
+
+
+Data Sets to be Used:
+* CTA Ridership Daily Totals
+* Station Entries
+* List of L Stops
+
+Tasks:
+Data Cleaning: Everyone
+Matplotlib: Courtney Dumas and Lisa Weinstein 
+Data Merging: Mark Piraino
+Analysis: Everyone
+      Seasonal Analysis – Lisa Weinstein 
+      Pre and Post COVID – Courtney Dumas
+      Ridership overtime – Courtney Dumas
+      Neighborhood Level Analysis – Mark Piraino
+- Pre and Post COVID
+      Days of the week – Lisa Weinstein 
+      Bus data versus ‘L’ data - Lisa Weinstein 
+      
