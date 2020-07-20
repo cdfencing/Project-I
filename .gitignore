@@ -133,3 +133,4 @@ config.py
 
 #ignore large data files
 L_data_merged.csv
+iteration_data/
