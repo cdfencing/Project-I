@@ -10,3 +10,35 @@ Our approximation is based on a iterative approach. In which we specify a distri
 
 ### Ridership by line 2010 - 2020
 
+![Ridership Graph](Output/figures/all_2010_2019.png)
+
+This chart shows that overall the proportion of ridership on each line has been realtively stable over time. From the graph we can see a significant exception is in 2013-2014 in which the Red line experiences a decease in riderhsip and the Green line a significant increase. We atrribute this to the closure of several Red line stations serving the south side of Chicago [(link)](https://www.transitchicago.com/redsouth/).
+
+To get a beter sense of Purple and Yellow line ridership we can plot those on their own charts:
+![Ridership Graph](Output/figures/yellow_2010_2019.png)
+
+![Ridership Graph](Output/figures/purple_2010_2019.png)
+
+Again we notice a significant deviation in 2015. We attribute this the closure of yellow line stations [(link)](https://en.wikipedia.org/wiki/Yellow_Line_(CTA)#2015_embankment_collapse).
+
+To visualize a typical yearly breakdown of ridership we used to 2018:
+
+![Ridership Graph](Output/figures/Pie_chart_2018.png)
+
+
+### Ridership by line 2020
+
+![Ridership Graph](Output/figures/all_2020.png)
+
+We can see from this graph the change in trends which take place in March 2020. During that month the state of Illinois was placed under a stay at home order due the spread of COVID-19. In particualr we observe a higher propotion of riders taking the Red, Green and Pink lines and a lower proportion taking the Brown line. We can see these chagnes in trend more clearly in the following charts:
+
+![Ridership Graph](Output/figures/RBGBr_2020.png)
+
+![Ridership Graph](Output/figures/PexpPnkO_2020.png)
+
+![Ridership Graph](Output/figures/yellow_2020.png)
+
+![Ridership Graph](Output/figures/purple_2020.png)
+
+From these final two charts we can see that the Yellow and Purple lines also experienced an increase in proportional ridership.
+
